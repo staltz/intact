@@ -6,7 +6,7 @@
 
 ## The software
 
-Available for Linux, macOS, and Windows. Plug in a MIDI instrument and open the program. Press the MIDI keys and see the Intact notation on the center of the screen. The grid in the background displays a *LinnStrument 128*. This software is basically built for myself, because that's the device I use, with those specific colors on the grid.
+Available for [Linux, macOS, and Windows](https://github.com/staltz/intact/releases). Plug in a MIDI instrument and open the program. Press the MIDI keys and see the Intact notation on the center of the screen. The grid in the background displays a *LinnStrument 128*. This software is basically built for myself, because that's the device I use, with those specific colors on the grid.
 
 ![screenshot.gif](./screenshot.gif)
 
