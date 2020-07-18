@@ -52,22 +52,22 @@ Examples:
 Note that the classical notation allows ambiguity, you can play F♯m with various intervals omitted, and it's still F♯m. Intact notation aims at being more precise at what's actually being played. Examples:
 
 | Classical Chord | Intact Chord | Alternative 1 | Alternative 2 | Alternative 3 |
-|-----------------|-----------|--------------|----------|-----|
-| F♯m | **f(3)58** | **f(3)8** | **f(3)** | **f(3)5** |
+|-----------------|--------------|---------------|---------------|---------------|
+| F♯m             | **f(3)58**   | **f(3)8** | **f(3)** | **f(3)5** |
 
 "Compound intervals", in other words, intervals that go higher than an octave, like the 9th or 11th are written as conventional Intact intervals, but written after a `^` symbol, to indicate that they lie in the higher octave. Examples:
 
 | Classical Chord | Classical Breakdown | Intact Breakdown | Intact Chord |
-|-----------------|-----------|--------------|----------|
-| C(add9) | C + major 3rd + 5th + 9th | C + 3 + 5 + ^2 | **C35^2** |
+|-----------------|---------------------|------------------|--------------|
+| C(add9)   | C + major 3rd + 5th + 9th | C + 3 + 5 + ^2   | **C35^2**     |
 
 So we often use the `^` symbol for inverted chords, e.g.
 
 | Classical Chord | Intact Chord | Intact Chord alternative |
-|-----------------|-----------|--------------|----------|-----|
-| F♯m | **f(3)58** | **f8^(3)** |
-| Cm7 | **C(3)5(7)** | **C(7)^(3)** |
-| Cmaj7 | **C357** | **C7^3** |
+|-----------------|--------------|--------------------------|
+| F♯m             | **f(3)58**   | **f8^(3)**               |
+| Cm7             | **C(3)5(7)** | **C(7)^(3)**             |
+| Cmaj7           | **C357**     | **C7^3**                 |
 
 ## Cheatsheet
 
