@@ -1,0 +1,33 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+_global_script_classes=[  ]
+_global_script_class_icons={
+
+}
+
+[application]
+
+config/name="Intact Notation"
+config/description="Playground to try out the Intact Musical Notation on LinnStruments (MIDI)"
+run/main_scene="res://Home.tscn"
+config/icon="res://icon.png"
+
+[display]
+
+window/size/width=900
+window/size/height=500
+window/size/resizable=false
+window/energy_saving/keep_screen_on=false
+
+[rendering]
+
+environment/default_clear_color=Color( 0.0588235, 0.0588235, 0.0588235, 1 )
+environment/default_environment="res://default_env.tres"

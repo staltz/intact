@@ -1,0 +1,6 @@
+[gd_scene format=2]
+
+[node name="Polygon2D" type="Polygon2D"]
+scale = Vector2( 0.35, 0.35 )
+color = Color( 1, 0, 0, 1 )
+polygon = PoolVector2Array( 50, 0, 40.4, 29.3, 15.4, 47.5, -15.4, 47.5, -40.4, 29.3, -50, 0, -40.4, -29.3, -15.4, -47.5, 15.4, -47.5, 40.4, -29.3 )
