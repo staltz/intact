@@ -69,38 +69,42 @@ So we often use the `^` symbol for inverted chords, e.g.
 | Cm7             | **C(3)5(7)** | **C(7)^(3)**             |
 | Cmaj7           | **C357**     | **C7^3**                 |
 
+## Names
+
+For orally talking about chords (e.g. in a rehearsal), this notation itself is not convenient. E.g. **C(7)^(3)** is "C minor seventh up minor third" isn't fun. So we need simple names to describe the chord, and its related inversions. The cheatsheet below introduces the names for each chord family.
+
 ## Cheatsheet
 
-| Classical | Intact*     | Intact    | Intact    | Intact   | Intact |
-|-----------|-------------|-----------|-----------|----------|--------|
-| C         | C8^3        | C58^3     | C35       |          |        |
-| C5        | C5          |           |           |          |        |
-| Csus4     | C4          | C45       |           |          |        |
-| Csus2     | C25         | C2        |           |          |        |
-| C(add9)   | C^23        | C35^2     | C5^2      | C5^23    |        |
-| C6        | C6^3        | C68^3     | C56       | C356     |        |
-| C6/9      | C6^23       | C56^2     | C6^2      | C356^2   |        |
-| Cmaj7     | C7^3        | C357      | C37       |          |        |
-| Cmaj9     | C7^23       | C357^2    | C37^2     | C57^2    |        |
-| Cmaj7#11  | C7^3(5)     | C357^(5)  | C37^(5)   | C57^(5)  |        |
-| Cmaj13    | C7^36       | C357^26   | C37^26    | C57^26   | C7^236 |
-| Cm        | C8^(3)      | C(3)58    | C58^(3)   | C(3)5    |        |
-| Cm(add9)  | C^2(3)      | C(3)5^2   |           |          |        |
-| Cm6       | C6^(3)      | C(3)6     |           |          |        |
-| Cmb6      | C(6)^(3)    | C(3)(6)   | C(3)5(6)  |          |        |
-| Cm6/9     | C^2(3)6     | C(3)6^2   |           |          |        |
-| Cm7       | C(7)^(3)    | C(7)^(3)5 | C5(7)^(3) | C(3)5(7) |        |
-| Cm7b5     | C(5)(7)^(3) |           |           |          |        |
-| Cm9       | C(7)^2(3)   |           |           |          |        |
-| Cm11      | C(7)^2(3)4  |           |           |          |        |
-| Cm13      | C(7)^2(3)45 |           |           |          |        |
-| C7        | C3(7)       | C(7)^3    |           |          |        |
-| C7sus4    | C4(7)       | C(7)^4    |           |          |        |
-| C7/9      | C(7)^2      | C3(7)^2   |           |          |        |
-| C9sus4    | C4(7)^2     |           |           |          |        |
-| C11       | C(7)^24     |           |           |          |        |
-| C13       | C(7)^236    | C35(7)^26 | C(7)^26   |          |        |
-| C13sus4   | C(7)^246    | C45(7)^26 |           |          |        |
+| Classical | Name    | Intact*     | Intact    | Intact    | Intact   | Intact |
+|-----------|---------|-------------|-----------|-----------|----------|--------|
+| C         | C major | C8^3        | C58^3     | C35       |          |        |
+| C5        | C power | C5          |           |           |          |        |
+| Csus4     | C four  | C4          | C45       |           |          |        |
+| Csus2     |         | C25         | C2        |           |          |        |
+| C(add9)   |         | C^23        | C35^2     | C5^2      | C5^23    |        |
+| C6        |         | C6^3        | C68^3     | C56       | C356     |        |
+| C6/9      |         | C6^23       | C56^2     | C6^2      | C356^2   |        |
+| Cmaj7     | C delta | C7^3        | C357      | C37       |          |        |
+| Cmaj9     |         | C7^23       | C357^2    | C37^2     | C57^2    |        |
+| Cmaj7#11  |         | C7^3(5)     | C357^(5)  | C37^(5)   | C57^(5)  |        |
+| Cmaj13    |         | C7^36       | C357^26   | C37^26    | C57^26   | C7^236 |
+| Cm        | C minor | C8^(3)      | C(3)58    | C58^(3)   | C(3)5    |        |
+| Cm(add9)  |         | C^2(3)      | C(3)5^2   |           |          |        |
+| Cm6       |         | C6^(3)      | C(3)6     |           |          |        |
+| Cmb6      |         | C(6)^(3)    | C(3)(6)   | C(3)5(6)  |          |        |
+| Cm6/9     |         | C^2(3)6     | C(3)6^2   |           |          |        |
+| Cm7       | C seven | C(7)^(3)    | C(7)^(3)5 | C5(7)^(3) | C(3)5(7) |        |
+| Cm7b5     |         | C(5)(7)^(3) |           |           |          |        |
+| Cm9       |         | C(7)^2(3)   |           |           |          |        |
+| Cm11      |         | C(7)^2(3)4  |           |           |          |        |
+| Cm13      |         | C(7)^2(3)45 |           |           |          |        |
+| C7        | C sefta | C3(7)       | C(7)^3    |           |          |        |
+| C7sus4    |         | C4(7)       | C(7)^4    |           |          |        |
+| C7/9      |         | C(7)^2      | C3(7)^2   |           |          |        |
+| C9sus4    |         | C4(7)^2     |           |           |          |        |
+| C11       |         | C(7)^24     |           |           |          |        |
+| C13       |         | C(7)^236    | C35(7)^26 | C(7)^26   |          |        |
+| C13sus4   |         | C(7)^246    | C45(7)^26 |           |          |        |
 
 (Intact* means this one feels comfortable on the LinnStrument)
 
